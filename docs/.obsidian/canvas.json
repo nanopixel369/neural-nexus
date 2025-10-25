@@ -1,0 +1,9 @@
+{
+  "snapToObjects": true,
+  "snapToGrid": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/Canvas/",
+  "defaultWheelBehavior": "zoom",
+  "defaultModDragBehavior": "group",
+  "cardLabelVisibility": "hover"
+}

@@ -1,0 +1,11 @@
+{
+  "exmemo-tools:llm-assistant": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ]
+}

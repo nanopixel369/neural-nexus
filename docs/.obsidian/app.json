@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": false,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "promptDelete": false,
+  "livePreview": false,
+  "readableLineLength": false,
+  "showInlineTitle": false
+}
