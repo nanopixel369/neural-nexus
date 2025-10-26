@@ -75,6 +75,9 @@ npm-debug.log* # (kept from your template)
 yarn-debug.log* # (kept from your template)
 yarn-error.log* # (kept from your template)
 
+# Obsidian.md Vault-Specific Files
+.obsidian/
+
 # Vercel, which you may not need, but often included
 .vercel
 
